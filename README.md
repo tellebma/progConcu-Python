@@ -18,7 +18,7 @@ Les billes et le patron</br>
 
 # ex 4
 Approximation de Pi : 3,14159265</br>
-![image](https://user-images.githubusercontent.com/66943979/143608671-aad0c073-9128-418c-8ff1-9872d3ebcb38.png)</br>
+![image](https://user-images.githubusercontent.com/66943979/143609076-eeb1b1e4-23b8-4c8d-af76-5ef1280feb92.png)</br>
 
 ```bash
 $calculPI-4process.py
