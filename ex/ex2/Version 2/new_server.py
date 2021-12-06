@@ -24,7 +24,7 @@ def server(queue_demande,queue_resultat)->None:
         while True :
             while not operation_en_attente:
                     
-                time.sleep(0.2)
+                time.sleep(0.8)
                 #print('−'* 60)
                 # Le pere envoie au fils un calcul aléatoire à faire et récupère le résultat
                 #opération:

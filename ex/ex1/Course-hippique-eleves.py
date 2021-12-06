@@ -209,7 +209,7 @@ def course_hippique(keep_running) :
 # La partie principale :
 if __name__ == '__main__' :
     print(NORMAL)
-    LONGUEUR_COURSE = 15 # Tout le monde aura la même copie (donc no need to have a 'value')
+    LONGUEUR_COURSE = 60 # Tout le monde aura la même copie (donc no need to have a 'value')
     mutex = mp.Semaphore() # Val init=1
     keep_running=mp.Value(ctypes.c_bool, True)
     Nb_process = 10
