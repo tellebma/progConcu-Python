@@ -14,7 +14,17 @@ bcp de Calculettes
 
 # ex 3
 Les billes et le patron</br>
+Premieres solutions:  
+ while & pause :  
+ main_bille_controller_tjr_actif.py  
 ![image](https://user-images.githubusercontent.com/66943979/143608524-2a59a6f6-789f-4b50-adf9-9f128f0276c5.png)</br>
+ Même solution : avec un verrou  
+ main_bille_verrou.py  
+ ![image](https://user-images.githubusercontent.com/66943979/145597816-4a6e86fb-7fbb-4c3d-af51-7904a670dbf8.png)
+![image](https://user-images.githubusercontent.com/66943979/145598020-50666a73-7e0c-4776-8a4c-48dd3ccb4d5c.png)  
+Seconde Solution :  
+ Utilisation des Condiions  
+ main_bille_passif.py
 
 # ex 4
 Approximation de Pi : 3,14159265</br>
